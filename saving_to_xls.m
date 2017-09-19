@@ -1,3 +1,4 @@
+%Ranjeeth KS, University of Calgary
  xbow_result = [x_phi x_lambda]*180/pi;
 novatel_result = [n_phi n_lambda]*180/pi;
 ref_result = [ins_PVA.INS_Lat(1:plot_len) ins_PVA.INS_Long(1:plot_len)];

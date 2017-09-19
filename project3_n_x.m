@@ -1,3 +1,5 @@
+%Ranjeeth KS, University of Calgary
+
 % SYnchrozization: From 490977th second between Xbow data, INSPVAS, Carship
 % Reference: 1st values of INS_PVA
 % g, Rn and Rm are updated in every loop, 

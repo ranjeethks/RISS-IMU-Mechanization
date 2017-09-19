@@ -1,3 +1,4 @@
+%Ranjeeth KS, University of Calgary
 figure;
    subplot(3,1,1);
   plot(x_phi,'r','LineWidth',2); hold on; plot(n_phi,'b','LineWidth',2); hold on; plot(ins_PVA.INS_Lat(1:plot_len),'g','LineWidth',2);
